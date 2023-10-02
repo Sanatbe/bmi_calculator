@@ -19,7 +19,7 @@ class _HomeViewState extends State<HomeView> {
           elevation: 0.0,
           backgroundColor: AppColors.secondaryColor,
           title: Text(
-            'BMI CALCULATOR',
+            'Sanatbek',
             style: AppTextStyles.white22,
           )),
       body: Column(
